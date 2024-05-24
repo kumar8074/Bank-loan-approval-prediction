@@ -42,8 +42,12 @@ The model 7:
 - Trails on different `no.of layers`, `no.of neurons` in each layer and different `learning_rate` have been made.
 - EarlyStopping Callback is also used to prevent model from overfitting.
 - This model have validation accuracy of 94.9% and test accuracy of 94.8%
-  <img width="387" alt="Screenshot 2024-05-24 at 8 22 36 PM" src="https://github.com/kumar8074/Bank-loan-approval-prediction/assets/99739282/4e56abec-849f-4ada-ab03-e9871f8542bd">
+
   
+  <img width="387" alt="Screenshot 2024-05-24 at 8 22 36 PM" src="https://github.com/kumar8074/Bank-loan-approval-prediction/assets/99739282/4e56abec-849f-4ada-ab03-e9871f8542bd">
+
+
+
   <img width="740" alt="Screenshot 2024-05-24 at 8 24 59 PM" src="https://github.com/kumar8074/Bank-loan-approval-prediction/assets/99739282/02f0c81e-422b-44dd-aaf2-0b0ae3024dfe">
 
 
@@ -56,7 +60,13 @@ The model 7:
   - optimizers are ['adam', 'rmsprop', 'nadam', 'adagrad', 'adadelta', 'sgd']
   - EarlyStopping Callback is also used to prevent model from overfitting.
   - This model have validation accuracy of 94.8% and test accuracy of 95.5%
+ 
+    
     <img width="390" alt="Screenshot 2024-05-24 at 8 32 36 PM" src="https://github.com/kumar8074/Bank-loan-approval-prediction/assets/99739282/56cd20e6-4f40-46a7-890e-5d9e03f64b25">
+
+
+
+
 
 
     <img width="735" alt="Screenshot 2024-05-24 at 8 33 51 PM" src="https://github.com/kumar8074/Bank-loan-approval-prediction/assets/99739282/edbfb984-53a8-427a-b146-e5b4a6a0eda1">
